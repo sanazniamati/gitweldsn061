@@ -1,6 +1,6 @@
 {
   "name": "gitweldsn061",
-  "description": "Roughjs react first try",
+  "description": "roughjs react first try",
   "version": "0.1.0",
   "keywords": [
     "canvas",
@@ -8,11 +8,8 @@
     "roughjs"
   ],
   "dependencies": {
-    "i": "^0.3.7",
-    "konva": "8.3.11",
     "react": "18.0.0",
     "react-dom": "18.0.0",
-    "react-konva": "^18.0.0-0",
     "roughjs": "^4.5.2"
   },
   "devDependencies": {
