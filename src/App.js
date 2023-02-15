@@ -3,6 +3,7 @@ import rough from "roughjs/bundled/rough.esm";
 const generator = rough.generator();
 const createElement = (id, x1, y1, x2, y2) => {
   const roughElement = generator.rectangle(x1, y1, x2 - x1, y2 - y1);
+  console.log({ id, x1, y1, x2, y2, roughElement });
   return { id, x1, y1, x2, y2, roughElement };
 };
 const drawElement = (roughCanvas, context, element) => {
