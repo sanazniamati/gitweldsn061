@@ -1,11 +1,11 @@
 {
-  "name": "gitweldsn058",
-  "description": "React Konva redo undo",
+  "name": "gitweldsn061",
+  "description": "Roughjs react first try",
   "version": "0.1.0",
   "keywords": [
     "canvas",
     "react",
-    "konva"
+    "roughjs"
   ],
   "dependencies": {
     "i": "^0.3.7",
